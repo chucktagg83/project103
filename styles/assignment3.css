@@ -5,7 +5,7 @@ h1 {
     color: navy;
     font-size: 50px;
     text-align: center;
-    margin-top: 50%;
+    margin-top: 20%;
 }   
 main {
     display: flex;
@@ -30,4 +30,10 @@ button {
 }
 button:hover {
     background-color: rgb(34, 150, 179);
+}
+.Worldwide {
+    color: rgba(90, 7, 7, 0.945);
+}
+.USA {
+    color: rgb(14, 14, 190);
 }
